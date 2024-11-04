@@ -1,2 +1,2 @@
 # fullStackOpen
-repository containing all of Jonathan Corado's course excerpts.
+repository containing all the exercises of Jonathan Corado's course.
